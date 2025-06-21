@@ -1,4 +1,4 @@
-name: cvpr-storm
+name: storm
 channels:
   - pytorch
   - nvidia
