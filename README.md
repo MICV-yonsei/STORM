@@ -35,7 +35,7 @@ On top of these requirements, we add several requirements which can be found in 
 ## Usage
 
 <p align="center">
-<img src="docs/results.jpg" width="800px"/>  
+<img src="docs/method.png" width="800px"/>  
 <br>
 Example generations outputted by Stable Diffusion with Attend-and-Excite. 
 </p>
