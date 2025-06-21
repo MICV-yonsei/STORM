@@ -17,7 +17,7 @@
 [![Replicate](https://replicate.com/daanelson/attend-and-excite/badge)](https://replicate.com/daanelson/attend-and-excite) -->
 
 <p align="center">
-<img src="docs/storm_main.jpg" width="800px"/>  
+<img src="docs/storm_main.png" width="800px"/>  
 
 
 ## Environment
